@@ -3,7 +3,8 @@
 ## Instructor Information
 Name: Eric Charnesky  
 OCC Email: etcharn1@oaklandcc.edu  
-Office Location: virtual via Discord https://discord.gg/TJgQeCR or Zoom  
+Office Hours:  TBD - Please schedule via my calendly link
+Office Location: virtual via Discord or Zoom  
 
 ## Course Information
 Section Number(s): O1598  
