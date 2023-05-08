@@ -15,7 +15,7 @@ Students should have elementary algebra skills and be familiar with both element
 ### Course Prerequisites
 None
 ### Course General Education Outcomes
-•	Critical Thinking
+•	Critical Thinking  
 o	Applies knowledge to the assigned task
 ### Common Course Outcomes
 1.	Students will be able to utilize an IDE to develop a running Python program. In addition to editing, and running a program, they should be able to use the IDE’s debugger
